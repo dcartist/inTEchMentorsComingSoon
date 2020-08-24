@@ -11048,7 +11048,7 @@ a.bd-backtotop-1:hover {
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLWh0bWxjb250ZW50OQ {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLWltYWdlbGluazEzMA {}
 .bd-imagelink-130 {
-  width: 596px;
+  width: 100%;
 }
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLWltYWdlbGluazEzMA {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLWltYWdlbGluazU {}
@@ -11100,7 +11100,7 @@ a.bd-backtotop-1:hover {
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLWxheW91dGJveDU {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLWxheW91dGJveDYz {}
 .bd-layoutbox-63 {
-  width: 25%;
+  width: 75%;
   left: 50%;
   top: 50%;
   position: absolute;
@@ -11529,8 +11529,8 @@ h2.bd-postheader-4 a {
   background-size: cover;
 }
 .bd-section-26 {
-  line-height: 24px;
-  font-size: 20px;
+  line-height: 19.2px;
+  font-size: 16px;
   color: #ffffff;
   text-transform: uppercase;
   text-align: center;
@@ -11688,6 +11688,10 @@ h2.bd-postheader-4 a {
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazMz {}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazMz {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazQ {}
+.bd-textblock-4 {
+  line-height: 18.57142858px;
+  font-size: 13px;
+}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazQ {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazU {}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazU {}
